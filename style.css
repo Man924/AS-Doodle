@@ -1,0 +1,19 @@
+body{
+	background: lovenderblush;
+}
+p{
+	color: darkblue;
+}
+h1{
+	color: purple;
+	padding: 10px;
+	display: inline-block;
+}
+span{
+	color: darkred;
+}
+#show_sketch{
+	float: right;
+	margin-top: 10px;
+	margin-left: 10px;
+}
